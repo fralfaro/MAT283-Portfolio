@@ -28,17 +28,17 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
 
 ```
 ├───docs
-│   ├──setup.md
-│   ├───codes
-│   │    └──README.md
-│   └───reports
-│        └──README.md
-└───images
-      ├───  dmat.png
+│   ├─── codes
+│   │     └── README.md
+│   ├─── reports
+│   │     └── README.md
+│   └─── setup.md
+└─── images
+      ├─── dmat.png
       ├─── template.png
-      └── utfsm.png
-├───  .gitignore
-├───    LICENSE
+      └──  utfsm.png
+├─── .gitignore
+├─── LICENSE
 └──  README.md
 ```
 
