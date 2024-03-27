@@ -2,6 +2,9 @@
 
 El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` y posea material demostrable de las habilidades aprendidas en el curso. Las instrucciones se dividen en la configuración del repositorio personal, configuración del repositorio del curso y en un flujo típico a lo largo del semestre.
 
+> **Nota:** La información generada en el proyecto de laboratorio de modelación
+> (códigos, datos, informes) es **CONFIDENCIAL**. Por lo tanto, **NO** debe ser
+> compartida con personas que no estén directamente involucradas en el proyecto.
 
 ## Configuración inicial para el curso
 
@@ -15,7 +18,7 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
     - Más engorroso pero más seguro: SSH
         * Sigue [estas instrucciones](https://help.github.com/en/articles/connecting-to-github-with-ssh).
 4. Ir al repositorio [MAT283-Portfolio](https://github.com/fralfaro/MAT283-Portfolio) y presionar el botón *__Use this template__* <img src="../images/template.png" width=80>.
-5. Nombar el nuevo repositorio como __MAT283_portfolio__ y dejarlo en modo público.
+5. Nombar el nuevo repositorio como __MAT283_portfolio__ y dejarlo en modo **privado**.
 7. Se recomienda crear un directorio en el computador personal para repositorios de Git. Por ejemplo en `~/Documents/git/`.
 6. Clonar el repositorio recién creado. Dependiendo de tu configuración de Git, reemplazar `{username}` por el nombre de usuario personal de GitHub uno de los siguientes comandos en la terminal (usuarios de Windows probablemente tengan que utilizar _Git Shell_.)
     - HTTPS: `git clone https://github.com/{GITHUB_USER}/MAT283_portfolio.git`
@@ -43,10 +46,10 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
 ```
 
 - **docs**: Carpeta que contiene documentación relacionada con el proyecto.
-  - **setup.md**: Un archivo markdown que describe cómo configurar el proyecto.
+  - **setup.md**: Archivo markdown que describe cómo configurar el proyecto.
   - **codes**: Carpeta que contiene los códigos o scripts relacionados con el proyecto.
   - **reports**: Carpeta que contiene informes relacionados con el proyecto.
-- **images**: Una carpeta que  contiene imágenes relacionadas con el proyecto.
+- **images**: Carpeta que  contiene imágenes relacionadas con el proyecto.
 
 
 - **.gitignore**: Archivo que contiene patrones de archivos que se deben ignorar.
